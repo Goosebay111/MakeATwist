@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "934319905912",
+    "firebase_url": "https://make-a-twist.firebaseio.com",
+    "project_id": "make-a-twist",
+    "storage_bucket": "make-a-twist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934319905912:android:6271439cae60ac8a59618d",
+        "android_client_info": {
+          "package_name": "leeiiige.makeatwist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934319905912-aimivlsm65gird5vbtid6b0qoe19gogp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRB2HG9xcAGtgv9v8sQwbdmtxixVf5IDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934319905912-aimivlsm65gird5vbtid6b0qoe19gogp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
